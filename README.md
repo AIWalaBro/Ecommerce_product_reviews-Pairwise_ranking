@@ -10,15 +10,19 @@ open you cmd/anaconda prompt and change your drive location where you have to cl
 `1) cd/d D:\NLP_Projects\E-Commerce Reviews and pair wise sentiment analysis`
 
 clone this repository in your folder
+
 `2) git clone https://github.com/AIWalaBro/Ecommerce_product_reviews-Pairwise_ranking_and_Sentiment_Analysis.git`
 
 create an virtual environment of python==3.10.9
+
 `3) conda create -p venv python==3.10.9 -y`
 
 install requirements.txt file
+
 `4) pip install -r requirements.txt`
 
 run app.py file
+
 `5) python app.py`
 
 # Documentation
